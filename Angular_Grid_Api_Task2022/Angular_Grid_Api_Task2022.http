@@ -1,0 +1,6 @@
+@Angular_Grid_Api_Task2022_HostAddress = http://localhost:5151
+
+GET {{Angular_Grid_Api_Task2022_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

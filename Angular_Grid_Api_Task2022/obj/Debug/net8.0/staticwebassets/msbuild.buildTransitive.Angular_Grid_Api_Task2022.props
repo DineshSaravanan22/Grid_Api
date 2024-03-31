@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Angular_Grid_Api_Task2022.props" />
+</Project>
